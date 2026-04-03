@@ -1,10 +1,9 @@
-# REST API Menu
+<h1>Asynchronous 5_ Backend Development - Part 2 (REST API) </h1> 
+<h2> Atika Haniifatun Nisa' (23091397098) </h2>
 
-Project REST API sederhana menggunakan Node.js dan PostgreSQL.
-
-## Fitur
-- CRUD Menu
-- Validasi data
-- Struktur modular (controller, service, repository)
-
+## Teknologi yang Digunakan
+Node.js
+Express.js
+PostgreSQL
+JavaScript (ES Module)
 
