@@ -7,7 +7,4 @@ Project REST API sederhana menggunakan Node.js dan PostgreSQL.
 - Validasi data
 - Struktur modular (controller, service, repository)
 
-## Cara Menjalankan
-```bash
-npm install
-npm run dev
+
